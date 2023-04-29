@@ -1,8 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-
-
-
+﻿//  DZ c#
 // Задача 2
 using System;
 
